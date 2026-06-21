@@ -12,7 +12,7 @@ export const ASSETS = {
   // Hero — LOCAL cinematic asset (the tripulante + turbina photo the client provided).
   // 🔁 GUARDA la imagen adjunta en:  public/images/v1-hero-cinematic.webp
   // Mientras no exista, el hero muestra un fallback oscuro premium (no se rompe).
-  heroCinematic: '/images/v1-hero-cinematic.webp',
+  heroCinematic: '/images/v1-hero-cinematic.png',
   heroImage: U('1436491865332-7a61a109cc05'), // wing over clouds at dusk (other sections)
   heroVideo: '', // 🔁 drop an mp4 URL here to enable the video layer
 
