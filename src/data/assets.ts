@@ -38,6 +38,12 @@ export const ASSETS = {
   programDispatchCard: U('1559686043-aef1bbc98d09'),         // airport operations
   programInstructorCard: U('1524178232363-1fb2b075b655'),   // instructor classroom
 
+  // Experience section — 🔁 place in public/images/ (spec in that folder README)
+  experienceDelegation: '/images/experience-delegation.webp',
+  experienceSimulator: '/images/experience-simulator.webp',
+  experienceCabin: '/images/experience-cabin.webp',
+  experienceCulture: '/images/experience-culture.webp',
+
   // CTA
   runwayCtaImage: U('1556388158-158ea5ccacbd'),
 
