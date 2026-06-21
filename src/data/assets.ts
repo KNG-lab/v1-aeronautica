@@ -32,6 +32,12 @@ export const ASSETS = {
   recurrentTcpImage: U('1540339832862-474599807836'),
   instructorImage: U('1524178232363-1fb2b075b655'), // classroom
 
+  // Program section editorial cards (replace with V1 actual photos)
+  programTcpInitialCard: U('1583395838144-09c4e1f5b5e9'),  // cabin crew students
+  programTcpRecurrentCard: U('1540339832862-474599807836'), // professional attendant
+  programDispatchCard: U('1559686043-aef1bbc98d09'),         // airport operations
+  programInstructorCard: U('1524178232363-1fb2b075b655'),   // instructor classroom
+
   // CTA
   runwayCtaImage: U('1556388158-158ea5ccacbd'),
 
